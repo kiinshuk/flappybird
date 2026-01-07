@@ -3,7 +3,7 @@
 A Python implementation of the classic Flappy Bird game using Pygame.
 
 ## 📸 Screenshot
-![Game Screenshot](img/screenshot.png) *Add your screenshot here*
+![Game Screenshot](img/screenshot.png) 
 
 ## 🚀 Quick Start
 
